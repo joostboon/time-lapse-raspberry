@@ -103,5 +103,11 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-#IntelliJ
+# IntelliJ
 .idea/
+
+# macOS
+.DS_Store
+
+# Static files
+server/projects/*
